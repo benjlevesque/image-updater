@@ -1,0 +1,4 @@
+{
+  "action":"INSERT",
+  "digest":"gcr.io/my-project/hello-world@sha256:6ec128e26cd5..."
+}
